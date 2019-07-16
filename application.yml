@@ -1,0 +1,20 @@
+spring:
+   profile: dev #开发环境
+   application:
+    name: woniucloud-provider-dev
+    
+---
+
+spring:
+   profile: test #开发环境
+   application:
+    name: woniucloud-provider-test
+    
+---
+
+spring:
+   profile: pro #开发环境
+   application:
+    name: woniucloud-provider-pro
+    
+---
